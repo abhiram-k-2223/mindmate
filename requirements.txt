@@ -86,7 +86,6 @@ pydeck==0.8.1b0
 Pygments==2.17.2
 PyJWT==2.8.0
 pyparsing==3.1.2
-pypiwin32==223
 Pyrebase4==4.7.1
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
