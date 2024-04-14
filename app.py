@@ -11,13 +11,13 @@ import sys
 sys.path.insert(1,r"C:\Users\LENOVO T480\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\streamlit_option_menu")
 from streamlit_option_menu import option_menu
 from plotly.graph_objs import Pie
-
+'''
 if not firebase_admin._apps:
     cred=credentials.Certificate('abhiram-866b9-firebase-adminsdk-nsy1t-30ce645102.json')
     firebase_admin.initialize_app(cred,{
        'databaseURL':'https://abhiram-866b9-default-rtdb.firebaseio.com/' 
     })
-
+'''
 load_dotenv()
 
 @st.cache_resource
