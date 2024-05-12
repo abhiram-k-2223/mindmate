@@ -1,4 +1,4 @@
-# MindMate - Your Mental Health Companion
+# MindMate
 
 MindMate is a web application designed to assist users in maintaining their mental well-being through journaling, data visualization, and conversational interaction. This README provides an overview of the application's functionalities, setup, and usage.
 
